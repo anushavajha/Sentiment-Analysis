@@ -1,6 +1,6 @@
 # Sentiment-Analysis
 
-This project performs Sentiment Analysis with scikit-learn by building a logistic regression model to classify movie reviews as either positive or negative. We use the popular IMDB data set and a simple logistic regression estimator from scikit-learn for document classification.
+This project performs Sentiment Analysis with scikit-learn by building a logistic regression model to classify movie reviews as either positive or negative. The popular IMDB data set is used and a simple logistic regression estimator from scikit-learn for document classification.
 
-We build and employ a logistic regression classifier using scikit-learn, clean and pre-process text data, perform feature extraction with nltk, tune model hyperparameters and evaluate model accuracy. We apply the logistic regression classification algorithm using scikit-learn and Python to classify movie reviews as either postive or negative.
+Logistic regression classifier is built and employed using scikit-learn, clean and pre-process text data, perform feature extraction with nltk, tune model hyperparameters and evaluate model accuracy. Logistic regression classification algorithm is applied using scikit-learn and Python to classify movie reviews as either postive or negative.
 
